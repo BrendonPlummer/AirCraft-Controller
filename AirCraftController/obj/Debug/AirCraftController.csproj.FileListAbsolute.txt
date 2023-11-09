@@ -1,0 +1,10 @@
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\bin\Debug\AirCraftController.exe.config
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\bin\Debug\AirCraftController.exe
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\bin\Debug\AirCraftController.pdb
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.csprojAssemblyReference.cache
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.Form1.resources
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.Properties.Resources.resources
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.csproj.GenerateResource.cache
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.csproj.CoreCompileInputs.cache
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.exe
+C:\Users\brend\source\repos\AirCraftController\AirCraftController\obj\Debug\AirCraftController.pdb
